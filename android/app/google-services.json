@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844101030324",
+    "project_id": "nubixtrabajo1",
+    "storage_bucket": "nubixtrabajo1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844101030324:android:1952cb1cf74b5a439c22e1",
+        "android_client_info": {
+          "package_name": "app.ejemplo.uclink2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxVVj1B3Upq5pg6YlwpoCHGcoYz4NMC9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

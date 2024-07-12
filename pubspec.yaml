@@ -1,0 +1,44 @@
+name: ayamocca
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_dialogs:
+  firebase_core:
+  firebase_auth:
+  cloud_firestore:
+  image_picker:
+  flutter_keyboard_visibility: ^5.4.1
+  flutter_datetime_picker: ^1.5.1
+  intl: ^0.17.0
+  firebase_storage: ^11.0.10
+  cached_network_image: ^3.3.1
+  easy_stepper: ^0.8.5
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.13.1"
+  change_app_package_name: "^1.1.0"
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon_launcher.png"
+
+flutter:
+  assets:
+    - assets/
+  uses-material-design: true
